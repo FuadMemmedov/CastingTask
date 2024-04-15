@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memme\\source\\repos\\Casting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85881116-B29A-409E-8955-F0762A437842}|Casting\\Casting.csproj|c:\\users\\memme\\source\\repos\\casting\\casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85881116-B29A-409E-8955-F0762A437842}|Casting\\Casting.csproj|solutionrelative:casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|C:\\Users\\memme\\source\\repos\\Casting\\core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|solutionrelative:core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|C:\\Users\\memme\\source\\repos\\Casting\\core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|solutionrelative:core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|C:\\Users\\memme\\source\\repos\\Casting\\core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|solutionrelative:core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|c:\\users\\memme\\source\\repos\\casting\\core\\enums\\addmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|solutionrelative:core\\enums\\addmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|C:\\Users\\memme\\source\\repos\\Casting\\core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54D9E-23C4-4680-9F9F-8BFE29A0BF36}|Core\\Core.csproj|solutionrelative:core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMenu.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Enums\\AddMenu.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\AddMenu.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Enums\\AddMenu.cs",
+              "RelativeToolTip": "Core\\Enums\\AddMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:30:41.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentCar.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Models\\RentCar.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\RentCar.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Models\\RentCar.cs",
+              "RelativeToolTip": "Core\\Models\\RentCar.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:01:51.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Models\\Truck.cs",
+              "RelativeToolTip": "Core\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:01:23.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Models\\Car.cs",
+              "RelativeToolTip": "Core\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:01:07.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Casting\\Core\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Core\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:00:56.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Casting\\Casting\\Program.cs",
+              "RelativeDocumentMoniker": "Casting\\Program.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Casting\\Casting\\Program.cs",
+              "RelativeToolTip": "Casting\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:59:41.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
